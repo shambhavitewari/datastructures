@@ -39,7 +39,7 @@ public class Main {
 
     
     public static void main(String[] args) {
-        int[] a = {5,9,10,12};
+        int[] a = {10,5,9,10,12};
         threeLarge(a);
     }
 }
