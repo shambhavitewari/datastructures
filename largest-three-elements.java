@@ -5,6 +5,8 @@ public class Main {
          int l = nums.length;
          int[] retArr= new int[3];
          
+          retArr[1]= retArr[2]=retArr[0]= Integer.MIN_VALUE;
+         
              for(int i=0; i<l;i++){
                  
               if(retArr[2]<nums[i])
