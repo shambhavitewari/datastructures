@@ -27,7 +27,7 @@ public class Main {
                  
                 }
              
-         Arrays.sort(retArr);
+         
          for(int i=0; i<3;i++)
          {
              System.out.println(retArr[i]);
