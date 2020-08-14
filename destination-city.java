@@ -1,5 +1,6 @@
 class Solution {
     public String destCity(List<List<String>> paths) {
+       
         String dest= paths.get(0).get(1);
         
         if(paths.size()==1)
