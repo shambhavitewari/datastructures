@@ -1,0 +1,2 @@
+ Another array 'arrN' was made, which is storing the sorted elements on each iteration of j loop.  The char corresponding to the new element is concatenated to a different string. 
+ By the end the new string is returned.
