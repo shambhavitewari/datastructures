@@ -1,0 +1,1 @@
+after the nested loop of i and j the condition for these elements are checked first and then the loop of k is iterated.
