@@ -1,0 +1,2 @@
+each element of the array was compared with the other elements using a nested loop. I used an extra array for storing the no. of smaller elements compared with the 
+element on the i-th position.
