@@ -1,0 +1,1 @@
+traversed the tree in inorder and stored the values in an arraylist, after that compared the sum of all the possible sums if it is equal to the given number.
